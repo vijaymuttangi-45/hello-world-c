@@ -16,3 +16,11 @@ Open your terminal in the project directory and run:
 ```bash
 gcc hello.c -o hello
 ./hello
+
+## Collaboration Log
+
+- **Pairing partner:** Kartik
+- **Partner GitHub username:** REPLACE_WITH_KARTIKS_GITHUB_USERNAME
+- **What we built:** Added a `greet()` function to `hello.c` that greets a person by name.
+- **What I learned:** GitLens helps identify who changed each line and when, while Live Share supports real-time collaborative coding.
+
