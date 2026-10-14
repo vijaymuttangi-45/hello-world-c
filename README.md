@@ -1,6 +1,6 @@
 # Hello World in C
 
-A simple C program created as part of the *Portfolio Building for Engineering Students (GitHub-Integrated Edition)* course (B25GE0101).
+A simple C program created as part of the *Portfolio Building for Engineering Students (GitHub-Integrated Edition)* course (B25CS0311).
 
 ## 📌 Project Overview
 This repository contains my first C program pushed to GitHub, establishing the initial entry in my engineering portfolio.
